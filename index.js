@@ -9,5 +9,5 @@ function whisper(string){
 }
 
 function sayHiToGrandma(string) {
-  if(string)
+  if ((string)
 }
