@@ -10,4 +10,6 @@ function whisper(string){
 
 function sayHiToGrandma(string) {
   if ((string)===uppercase) {
+    return.
+  }
 }
