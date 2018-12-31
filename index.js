@@ -10,5 +10,5 @@ function whisper(string){
 
 function sayHiToGrandma(string){
  if (string.toLowerCase() === 'hello'){
- } return string.toLowerCase(); "I can't hear you!"
+ } return string.toLowerCase() === "I can't hear you!";
 }
